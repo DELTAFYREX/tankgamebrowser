@@ -1,0 +1,67 @@
+[{
+	"hasApp": true,
+	"secure": true,
+	"ip": "neroio.xyz",
+	"motdDefault": {
+		"name": "Nero.io",
+		"description": "Nero.io is a 5 year running unofficial spinoff to arras.io meant to be the purgatory between arras and woomy arras...",
+		"version": "3.5",
+		"tags": ["tdm", "nero", "main", "woomy"],
+		"icon": "https://cdn.glitch.global/5fc7dcb6-aada-495b-828e-66901a470a29/2023_12_06_0za_Kleki.png?v=1701910145704"
+	}
+},{
+	"hasApp": true,
+	"secure": true,
+	"ip": "neroio.glitch.me",
+	"motdDefault": {
+		"name": "Legacy Nero.io",
+		"description": "This is the old version of nero.io, here for the nostalgia factor and for old times sake.",
+		"version": "2.6",
+		"tags": ["ffa", "nero", "arras mayhem"],
+		"icon": "https://cdn.glitch.global/f80d3eec-1e99-4b8c-b120-79a55addacf9/2023_02_09_0w9_Kleki.png?v=1675988557263"
+	}
+},{
+	"hasApp": true,
+	"secure": true,
+	"ip": "wwserverdec292023.glitch.me",
+	"motdDefault": {
+		"name": "Phoerras.io",
+		"description": "Arras on Carrack, free testbed, plenty of crazy off the rails unhinged type shit to discover!",
+		"version": "1",
+		"tags": ["phoerras", "freetoken", "crazy", "insane"],
+		"icon": "https://cdn.glitch.global/a2728a37-2036-43b3-931a-0a208575c2b7/d6702656-6955-4c78-a6b1-55743adeb1be.image.png?v=1709426159122"
+	}
+},{
+	"hasApp": true,
+	"secure": true,
+	"ip": "arrascalamity-2.glitch.me",
+	"motdDefault": {
+		"name": "Arras Calamity",
+		"description": "Play a Content-rich version of Arras that you can play forever!",
+		"version": "0.10",
+		"tags": ["armsrace", "calamity", "scenexefood"],
+		"icon": "https://arrascalamity-2.glitch.me/round.png"
+	}
+},{
+	"hasApp": true,
+	"secure": true,
+	"ip": "myriad-resurgence.glitch.me",
+	"motdDefault": {
+		"name": "Myriad Resurgence",
+		"description": "",
+		"version": "1",
+		"tags": ["myriad"],
+		"icon": "https://media.discordapp.net/attachments/1305190204600090759/1305241361037131786/Untitled2097_20241110214218.png?ex=6732503e&is=6730febe&hm=ab886b83ee16632e7139aacdd7adfe6dec513b4d9ef9146515db9fd8058c3061&=&format=webp&quality=lossless"
+	}
+},{
+	"hasApp": true,
+	"secure": true,
+	"ip": "enlarged-arras-io.netlify.app",
+	"motdDefault": {
+		"name": "Enlarged-Arras.io V3",
+		"description": "",
+		"version": "1",
+		"tags": ["myriad"],
+		"icon": "https://enlarged-arras-io.netlify.app/img/logo.png"
+	}
+}]
