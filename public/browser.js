@@ -311,7 +311,7 @@ class DOMServerListItem {
     }
 }
 
-fetch(`${location.protocol}//${location.host}/public/otherServers.json`).then(x => x.json()).then(fetchedServers => {
+fetch(`${location.protocol}//${location.host}/tankgamebrowser/public/otherServers.json`).then(x => x.json()).then(fetchedServers => {
     browser.innerHTML = '';
     for (let { hasApp, hasBrowser, secure, ip, motdDefault } of fetchedServers) {
         hasApp = !!hasApp;
